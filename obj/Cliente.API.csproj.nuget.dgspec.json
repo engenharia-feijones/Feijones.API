@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj": {}
+    "E:\\Study\\. NET\\Mutiplique V2\\cliente.API\\Cliente.API\\Cliente.API.csproj": {}
   },
   "projects": {
-    "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj": {
+    "E:\\Study\\. NET\\Mutiplique V2\\cliente.API\\Cliente.API\\Cliente.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj",
+        "projectUniqueName": "E:\\Study\\. NET\\Mutiplique V2\\cliente.API\\Cliente.API\\Cliente.API.csproj",
         "projectName": "Cliente.API",
-        "projectPath": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj",
+        "projectPath": "E:\\Study\\. NET\\Mutiplique V2\\cliente.API\\Cliente.API\\Cliente.API.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\obj\\",
+        "outputPath": "E:\\Study\\. NET\\Mutiplique V2\\cliente.API\\Cliente.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

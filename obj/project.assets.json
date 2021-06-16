@@ -7499,11 +7499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj",
-      "projectName": "Cliente.API",
-      "projectPath": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj",
+      "projectUniqueName": "E:\\Study\\DEMANDAS\\DEPLOY\\MultipliqueV2\\API\\11-06-2021\\Cliente.API\\MultipliqueV2.API.csproj",
+      "projectName": "MultipliqueV2.API",
+      "projectPath": "E:\\Study\\DEMANDAS\\DEPLOY\\MultipliqueV2\\API\\11-06-2021\\Cliente.API\\MultipliqueV2.API.csproj",
       "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\obj\\",
+      "outputPath": "E:\\Study\\DEMANDAS\\DEPLOY\\MultipliqueV2\\API\\11-06-2021\\Cliente.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7595,7 +7595,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -20,11 +20,11 @@
     "Cliente.API": {
         "commandName": "Project",
         "launchBrowser": true,
-        "launchUrl": "api/cliente",
-        "applicationUrl": "http://192.168.10.97:5000/",
+        "launchUrl": "api/Customers",
+        "applicationUrl": "http://localhost:5000/",
         "environmentVariables": {
             "ASPNETCORE_ENVIRONMENT": "Development"
         }
     }
   }
-}
+} 

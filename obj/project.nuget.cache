@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GOKdJF7tFygdJ+kk8VKJQel8yfe6MnqYy/mjRsiX4d6iGfXXePril8VoIB4Gd6pDX0QiClSbvW/JtqEIc24vvg==",
+  "dgSpecHash": "JpZKuv8c3U7ES4VundJ/5+cOy2thUOxcPNMFzu/1T6kIDRvxtYrpDvngm+gtgUrhOtuUcAeul3h00qoGgNVP4Q==",
   "success": true,
-  "projectFilePath": "E:\\Study\\. NET\\cliente.API\\Cliente.API\\Cliente.API.csproj",
+  "projectFilePath": "E:\\Study\\DEMANDAS\\DEPLOY\\MultipliqueV2\\API\\11-06-2021\\Cliente.API\\MultipliqueV2.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
