@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json.Serialization;
 
 
-namespace MultipliqueV2.API
+namespace Cliente.API
 {
     public class Startup
     {

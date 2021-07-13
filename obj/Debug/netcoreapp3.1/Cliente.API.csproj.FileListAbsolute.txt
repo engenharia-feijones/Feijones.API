@@ -1,3 +1,4 @@
+E:\Study\. NET\cliente.API\Cliente.API\obj\Debug\netcoreapp3.1\Cliente.API.csprojAssemblyReference.cache
 E:\Study\. NET\cliente.API\Cliente.API\obj\Debug\netcoreapp3.1\Cliente.API.AssemblyInfoInputs.cache
 E:\Study\. NET\cliente.API\Cliente.API\obj\Debug\netcoreapp3.1\Cliente.API.AssemblyInfo.cs
 E:\Study\. NET\cliente.API\Cliente.API\obj\Debug\netcoreapp3.1\Cliente.API.csproj.CoreCompileInputs.cache

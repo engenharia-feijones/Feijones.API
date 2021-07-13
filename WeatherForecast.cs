@@ -1,6 +1,6 @@
 using System;
 
-namespace MultipliqueV2.API
+namespace Cliente.API
 {
     public class WeatherForecast
     {

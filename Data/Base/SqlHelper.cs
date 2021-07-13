@@ -10,7 +10,7 @@ using System.Data;
 using System.Data.SqlClient;
 using Microsoft.Extensions.Logging;
 
-namespace MultipliqueV2.API.Data.Base
+namespace Cliente.API.Data.Base
 {
 	public class SqlHelper
 	{

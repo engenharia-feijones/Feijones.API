@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MultipliqueV2.API.Data.Base
+namespace Cliente.API.Data.Base
 {
     public static class Extensions
     {

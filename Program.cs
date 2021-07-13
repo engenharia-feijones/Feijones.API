@@ -13,7 +13,7 @@ using Serilog;
 using Serilog.Formatting.Compact;
 using Serilog.Formatting.Json;
 
-namespace MultipliqueV2.API
+namespace Cliente.API
 {
     public class Program
     {
